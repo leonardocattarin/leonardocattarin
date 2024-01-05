@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello there 👋
 
 My name is Leonardo, I'm a Master Physics student @ University of Trento, currently working on my thesis on Silicon Quantum Photonics.
 
