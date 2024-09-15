@@ -4,9 +4,9 @@ My name is Leonardo, I'm a Master Physics student @ University of Trento, curren
 
 Some topics and subjects i like:
 - Classical and Quantum Optics
-- Quantum Information, Computing and Communication
 - Photonic Devices
 - Material Science and Micro/Nanofabrication
+- Quantum Information, Computing and Communication
 - Data Analysis
 - Electromagnetism Simulation & TCAD
 - Digital Electronics and Hardware Design (FPGAs and stuff!)
