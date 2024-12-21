@@ -3,15 +3,14 @@
 My name is Leonardo, I'm a Master Physics student @ University of Trento, currently working on my thesis on Integrated Quantum Photonics.
 
 Some topics and subjects i like:
-- Classical and Quantum Optics
-- Photonic Devices
-- Material Science and Micro/Nanofabrication
-- Quantum Information, Computing and Communication
-- Data Analysis
+- Classical and Quantum Optics, Integrated Photonic Devices
 - Electromagnetism Simulation & TCAD
+- Material Science and Micro/Nanofabrication
+- Data Analysis
 - Digital Electronics and Hardware Design (FPGAs and stuff!)
 - Low level programming (System level, Driver development ...)
 - Software Engineering
+- Quantum Information, Computing and Communication
 
 <!--
 **leonardocattarin/leonardocattarin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
