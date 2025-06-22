@@ -1,6 +1,6 @@
 ### Hello there 👋
 
-My name is Leonardo, I'm a Master Physics student @ University of Trento, currently working on my thesis on Integrated Quantum Photonics.
+My name is Leonardo, I'm a Master Physics graduate from University of Trento, where I completed my thesis on Integrated Quantum Photonics.
 
 Some topics and subjects i like:
 - Classical and Quantum Optics, Integrated Photonic Devices
