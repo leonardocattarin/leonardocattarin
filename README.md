@@ -1,3 +1,4 @@
+<!-- height="250px" width="500px" -->
 ### Hello there 👋
 
 My name is Leo, I'm a PhD student at Sant'Anna School of Advanced Studies, Pisa, Italy.
@@ -19,8 +20,8 @@ I'm a curious person in general!
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matlab/matlab-original.svg" alt="matlab" width="40" height="40"/> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> 
-
 </p>
+
 <p align="left">
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Github-Dark.svg" alt="github" width="40" height="40"/> 
 <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-plain.svg" alt="github" width="40" height="40"/>
