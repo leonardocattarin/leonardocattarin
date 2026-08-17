@@ -13,7 +13,7 @@ Some topics and subjects i like:
   
 🤔 And, well...
 I'm a curious person in general!
-
+<!--
 ## Languages and tools
 
 <p align="left">
@@ -25,7 +25,7 @@ I'm a curious person in general!
 
 
 
-<!--
+
 **leonardocattarin/leonardocattarin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
