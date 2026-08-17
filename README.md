@@ -10,7 +10,7 @@ Some topics and subjects i like:
 - Digital Electronics and Hardware Design (also FPGAs and stuff!)
 - Material Science and Micro/Nanofabrication
   
-🤔 And, well,...
+🤔 And, well...
 I'm a curious person in general!
 
 <!--
