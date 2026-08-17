@@ -7,7 +7,7 @@ Some topics and subjects i like:
 - ☄️Integrated Photonic Devices Design & Modeling & Microwave Photonics
 - ⚡️Electromagnetism Simulations & TCAD, Design Scripting and Automation
 - 🌟Data Analysis, Software Engineering, Hardware Automation and Low level programming
-- Digital Electronics and Hardware Design (also FPGAs and stuff!)
+- Digital Electronics and Hardware Design (FPGAs especially)
 - Material Science and Micro/Nanofabrication
   
 🤔 And, well...
