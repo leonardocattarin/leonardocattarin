@@ -23,8 +23,7 @@ I'm a curious person in general!
 </p>
 <p align="left">
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Github-Dark.svg" alt="github" width="40" height="40"/> 
-<img src="[https://github.com/tandpfun/skill-icons/blob/main/icons/Github-Dark.svg](https://github.com/devicons/devicon/blob/master/icons/bash/bash-plain.svg)" alt="github" width="40" height="40"/>
-  
+<img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-plain.svg" alt="github" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
 <img src="https://github.com/n8n-io/n8n/blob/master/assets/n8n-logo.png" alt="n8n" width="100" height="40"/>
 </p>
