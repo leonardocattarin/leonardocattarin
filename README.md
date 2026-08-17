@@ -10,7 +10,8 @@ Some topics and subjects i like:
 - Digital Electronics and Hardware Design (also FPGAs and stuff!)
 - Material Science and Micro/Nanofabrication
   
-🤔 And, well, I'm a curious person in general
+🤔 And, well,...
+I'm a curious person in general!
 
 <!--
 **leonardocattarin/leonardocattarin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
