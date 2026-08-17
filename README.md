@@ -4,9 +4,9 @@ My name is Leo, I'm a PhD student at Sant'Anna School of Advanced Studies, Pisa,
 I have a background in Physics and my main activity is focused on Integrated Photonics, but I have other tech-related personal interests.
 
 Some topics and subjects i like:
-- Integrated Photonic Devices, Microwave Photonics and Quantum Information
-- Electromagnetism Simulations & TCAD
-- Data Analysis, Software Engineering, Hardware Automation and Low level programming
+- ☄️Integrated Photonic Devices Design & Modeling, Microwave Photonics and Quantum Information
+- ⚡️Electromagnetism Simulations & TCAD, Design Scripting and Automation
+- 🌟Data Analysis, Software Engineering, Hardware Automation and Low level programming
 - Digital Electronics and Hardware Design (also FPGAs and stuff!)
 - Material Science and Micro/Nanofabrication
 🤔 And, well, I'm a curious person in general
