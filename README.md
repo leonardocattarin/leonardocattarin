@@ -25,7 +25,7 @@ I'm a curious person in general!
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Github-Dark.svg" alt="github" width="40" height="40"/> 
 <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-plain.svg" alt="github" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/anaconda/anaconda-plain.svg" alt="github" width="40" height="40"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/anaconda/anaconda-original.svg" alt="github" width="40" height="40"/>
 </p>
 
 
