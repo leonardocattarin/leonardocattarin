@@ -1,4 +1,4 @@
-<!-- height="250px" width="500px" -->
+
 ### Hello there 👋
 
 My name is Leo, I'm a PhD student at Sant'Anna School of Advanced Studies, Pisa, Italy.
