@@ -9,6 +9,7 @@ Some topics and subjects i like:
 - 🌟Data Analysis, Software Engineering, Hardware Automation and Low level programming
 - Digital Electronics and Hardware Design (also FPGAs and stuff!)
 - Material Science and Micro/Nanofabrication
+  
 🤔 And, well, I'm a curious person in general
 
 <!--
